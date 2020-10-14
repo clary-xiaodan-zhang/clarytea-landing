@@ -1,6 +1,6 @@
 .button-orange {
     text-decoration: none;
-    background-color: #ff9a76;
+    background-color: rgb(255, 154, 118);
     color: white;
     padding: 15px 20px;
     border-radius: 4px;
@@ -10,6 +10,6 @@
 }
 
 .button-orange:hover {
-	background-color: #ac4b1c;
+	background-color: rgb(172, 75, 28);
 	color: white;
 }
